@@ -6,7 +6,7 @@ Reactjs\
 React Router DOM\
 Netlify for hosting\
 <br />
-# Libraries\
+# Libraries:-
    -react-icons\
    -react-scrollbar\
    -react-smooth-scrollbar\
@@ -14,9 +14,10 @@ Netlify for hosting\
    -react-reveal\
    -eslint\
    -swiper\
-   -uuis\
+   -uuis
 
-#Pics
+# Pics :-
+![Home](https://github.com/sagar-soneja/Portfolio-Website/blob/main/pic/portfolio%20home.png)<br/><br/>
 
 
 

@@ -5,7 +5,8 @@
 Reactjs\
 React Router DOM\
 Netlify for hosting\
--> ##Libraries\
+<br />
+# Libraries\
    -react-icons\
    -react-scrollbar\
    -react-smooth-scrollbar\

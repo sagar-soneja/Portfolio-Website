@@ -19,6 +19,7 @@ Netlify for hosting\
 # Pics :-
 ![Home](https://github.com/sagar-soneja/Portfolio-Website/blob/main/pic/portfolio%20home.png)<br/><br/>
 ![About](https://github.com/sagar-soneja/Portfolio-Website/blob/main/pic/portfolio%20about%20section.png)<br/><br/>
+![Project](https://github.com/sagar-soneja/Portfolio-Website/blob/main/pic/portfolio%20project%20section.png)<br/><br/>
 
 
 
